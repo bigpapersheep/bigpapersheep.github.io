@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2023-03-22T05:05:45.643Z</updated>
+    <updated>2023-05-07T13:35:09.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[小说随想]]></title>
+        <id>https://bigpapersheep.github.io/post/xiao-shuo-sui-xiang/</id>
+        <link href="https://bigpapersheep.github.io/post/xiao-shuo-sui-xiang/">
+        </link>
+        <updated>2023-05-07T13:22:36.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>刚读了一篇文章。里面的一些观点还挺符合我之前的一些想法。
+说是想要得到一件工作，一场策划，一位客户或者是一个心上人，一定要让对方认识到你的重要性，无论先后，得有一种“啊，没有你不行”的想法。
+我很早之前也有听过类似的见解，当然，这并不是说这是老生常谈的一个话题，只是觉得大家似乎都明白这个道理。让对方意识到我的重要性，这是一个很常见的手段。
+事实上我突然想记录这些，是因为我发觉一些人人觉得言之有理的句子，我好像早已认识到了。了解到的道理那么多，却在解决问题时不知道用哪一种好。我知道许多正确的做法，却没有具备这些做法所需要的能力，这不是在怨天尤人，不过是小小的叹息一句。
+最近也有看到一篇很不错的回答，大概是在说，总是觉得自己没有达到想要的目标，认为只不过是差一个机会，但事实上，即使机会就在你的面前，你知道自己要机会看到“啊，没有你不行”，回头才开始考虑自己是否有实力留下这个机会。
+其实这些不过是一个道理罢了。就像我写下这些文字，平时也只是另一种挣扎。留下这些文字，或许也是一种机会来临的前兆吧。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从图书馆里望到的花]]></title>
         <id>https://bigpapersheep.github.io/post/cong-tu-shu-guan-li-wang-dao-de-hua/</id>
