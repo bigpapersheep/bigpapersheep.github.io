@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2023-05-08T05:03:18.634Z</updated>
+    <updated>2023-05-08T06:58:42.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[好喜欢蓝花楹]]></title>
+        <id>https://bigpapersheep.github.io/post/hao-xi-huan-lan-hua-ying/</id>
+        <link href="https://bigpapersheep.github.io/post/hao-xi-huan-lan-hua-ying/">
+        </link>
+        <updated>2023-05-08T06:49:42.000Z</updated>
+        <content type="html"><![CDATA[<p>好喜欢蓝花楹啊！！！<br>
+好喜欢蓝花楹啊！！！<br>
+好喜欢蓝花楹啊！！！<br>
+好喜欢！好喜欢！好喜欢！<br>
+好漂亮！好漂亮！好漂亮！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小说随想]]></title>
         <id>https://bigpapersheep.github.io/post/xiao-shuo-sui-xiang/</id>
