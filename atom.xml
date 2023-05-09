@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2023-05-09T11:48:17.786Z</updated>
+    <updated>2023-05-09T14:59:25.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[爆炸水母]]></title>
+        <id>https://bigpapersheep.github.io/post/bao-zha-shui-mu/</id>
+        <link href="https://bigpapersheep.github.io/post/bao-zha-shui-mu/">
+        </link>
+        <updated>2023-05-09T14:56:25.000Z</updated>
+        <content type="html"><![CDATA[<p>太阳停在宇宙飞船上面<br>
+宇宙飞船有两只脚和会发光的屁股<br>
+太样穿过宇宙飞船</p>
+<p>太阳爆炸了<br>
+好吧爆了一半<br>
+太阳变成了水母</p>
+<p>水母喷射<br>
+嘟嘟嘟嘟嘟嘟嘟嘟——<br>
+水母酱好好吃<br>
+我大吃特吃</p>
+<p>啊呜</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好喜欢蓝花楹]]></title>
         <id>https://bigpapersheep.github.io/post/hao-xi-huan-lan-hua-ying/</id>
