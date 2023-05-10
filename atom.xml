@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2023-05-09T14:59:25.878Z</updated>
+    <updated>2023-05-10T09:35:58.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -10,6 +10,54 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[陌生人]]></title>
+        <id>https://bigpapersheep.github.io/post/mo-sheng-ren/</id>
+        <link href="https://bigpapersheep.github.io/post/mo-sheng-ren/">
+        </link>
+        <updated>2023-05-10T09:27:49.000Z</updated>
+        <content type="html"><![CDATA[<p>嘿，我想我和你相隔几个光年<br>
+我喜欢畅想着你们那里的一切<br>
+天上的眼睛偶尔回应我<br>
+想要认识你，我的陌生人</p>
+<p>或许是几个星系<br>
+今夜我看见了一些踪迹<br>
+有人说我们发出的信号被阻断了<br>
+你不想见到我吗</p>
+<p>说不定一个不规则的土地<br>
+会是初次相逢的合适场合<br>
+我圆圆的，你方方的<br>
+大家各自开朗<br>
+每人一起欣赏</p>
+<p>我也不太确定了<br>
+这里的空气越来越稀薄<br>
+光的速度似乎越来越快了<br>
+连月亮的影子都找不到</p>
+<p>嘿，瞧瞧你的身后<br>
+我们不再是陌生人</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从前]]></title>
+        <id>https://bigpapersheep.github.io/post/cong-qian/</id>
+        <link href="https://bigpapersheep.github.io/post/cong-qian/">
+        </link>
+        <updated>2023-05-10T09:23:39.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>                            一次简单的歌唱
+                            有人陆续起床
+                            星星成为太阳
+                            不再躲着发光
+                            世界依然繁忙
+                            地球失去续航
+                            我和她生活在水下
+                            珊瑚脆弱
+                            海草疯长
+                            生物在海底躲躲藏藏
+                            后来
+                            水母爆炸
+                            飞船再次起航</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爆炸水母]]></title>
         <id>https://bigpapersheep.github.io/post/bao-zha-shui-mu/</id>
