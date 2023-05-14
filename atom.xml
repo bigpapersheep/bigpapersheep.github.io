@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2023-05-10T09:44:58.304Z</updated>
+    <updated>2023-05-14T04:12:21.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[四季]]></title>
+        <id>https://bigpapersheep.github.io/post/si-ji/</id>
+        <link href="https://bigpapersheep.github.io/post/si-ji/">
+        </link>
+        <updated>2023-05-14T04:08:57.000Z</updated>
+        <content type="html"><![CDATA[<p>吃掉一个人的头<br>
+种下那个人的手<br>
+将眼睛悬挂屋顶<br>
+让双腿流浪月球<br>
+春来冬往<br>
+屋内空荡<br>
+收音机响了又响<br>
+壁炉里的火永远燃烧<br>
+终于<br>
+轮到我被杀死<br>
+这是一个秋天的晚上<br>
+只不过是一只笼子中的鸟</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[陌生人]]></title>
         <id>https://bigpapersheep.github.io/post/mo-sheng-ren/</id>
