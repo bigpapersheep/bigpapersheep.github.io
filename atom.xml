@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2023-05-18T13:05:14.834Z</updated>
+    <updated>2023-05-18T13:54:16.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[或许是日记体文章]]></title>
+        <id>https://bigpapersheep.github.io/post/huo-xu-shi-ri-ji-ti-wen-zhang/</id>
+        <link href="https://bigpapersheep.github.io/post/huo-xu-shi-ri-ji-ti-wen-zhang/">
+        </link>
+        <updated>2023-05-18T13:45:10.000Z</updated>
+        <content type="html"><![CDATA[<p>好吧，其实这一段和日记没有半分钱关系。<br>
+我突然觉得，比起自己受伤，让别人受伤更让我难过，这算一种变相的利他主义吗？可之前看的书可是说明这种基因活不长久的（恐怖脸）。<br>
+之前得新冠的时候是被人传染的一方，所以也没啥感觉，虽然那一次着实让我吃了不少苦头。不过这一次变成我传染给别人了，现在是真实的在心痛中。我想这并不是一个大事吧，但是总会止不住的内疚。<br>
+现在想想其他的事情，我好像也常常这样表现。比如一个团队工作，如果是别人没有做好，我想我或许不会过多的责怪对方，然后一起抗下这个责任；但换做是我搞砸了，我可能会比较想“杀掉”自己谢罪，总之是会非常的难过和自责。这会是一种不好的行为吗，头疼plus......</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猝不及防的暗恋]]></title>
         <id>https://bigpapersheep.github.io/post/cu-bu-ji-fang-de-an-lian/</id>
@@ -193,15 +205,6 @@
         <updated>2023-03-17T10:12:12.000Z</updated>
         <content type="html"><![CDATA[<p>我一直都知道故乡老家的院子里有很多果树，桃树，石榴......。每年寒暑假都能见到爷爷在为他们而劳作，我则一直有数不完的果子吃。<br>
 但今天我才见到花，入目是一片繁华，粉红色的花就像是曾经在爷爷院子里年幼的少年少女们。原来是这样的，原来他们是这样的。我总在它们枝叶最繁茂或是最萧条时来见他们，也在他们最动人，最张扬的青春时错失了这番风采。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[试试]]></title>
-        <id>https://bigpapersheep.github.io/post/shi-shi/</id>
-        <link href="https://bigpapersheep.github.io/post/shi-shi/">
-        </link>
-        <updated>2023-03-03T12:23:34.000Z</updated>
-        <content type="html"><![CDATA[<p>其实总是有很多机会降临在身边，也有很多想法时刻出现。虽然我不知道机会被抓住是否必然，但至少将想法记录于此。</p>
 ]]></content>
     </entry>
 </feed>
