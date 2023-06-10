@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2023-06-08T02:44:11.621Z</updated>
+    <updated>2023-06-10T07:40:21.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[突然想到（一）]]></title>
+        <id>https://bigpapersheep.github.io/post/tu-ran-xiang-dao-yi/</id>
+        <link href="https://bigpapersheep.github.io/post/tu-ran-xiang-dao-yi/">
+        </link>
+        <updated>2023-06-10T07:31:13.000Z</updated>
+        <content type="html"><![CDATA[<p>我总会在自己写一些文字的时候起鸡皮疙瘩，即使这些文字并不是那么文艺或者深沉，而往往是表达我内心想法的文字，比如现在。对啊，明明只是自己那并不多的墨水，有什么可紧张的。直到在回顾了最近所感所看所学之后，我才明白为什么。因为学识过于浅薄，在不知道抒发着什么情感时才会感到愧疚，寻找不到一个合适来表达心情的词汇，才会在滥用辞藻时被自己别扭到，更多的时候，连记录本身这件事都让人莫名害羞。更加深入的了解世界，了解社会，了解人性，读过更多的书，看过更多的人，听过更多的故事，才会让我在突然想到时不是紧张的措辞，而是真正的有感而发。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[正直了起来]]></title>
         <id>https://bigpapersheep.github.io/post/zheng-zhi-liao-qi-lai/</id>
@@ -170,27 +179,6 @@
 连月亮的影子都找不到</p>
 <p>嘿，瞧瞧你的身后<br>
 我们不再是陌生人</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从前]]></title>
-        <id>https://bigpapersheep.github.io/post/cong-qian/</id>
-        <link href="https://bigpapersheep.github.io/post/cong-qian/">
-        </link>
-        <updated>2023-05-10T09:23:39.000Z</updated>
-        <content type="html"><![CDATA[<p>一次简单的歌唱<br>
-有人陆续起床<br>
-星星成为太阳<br>
-不再躲着发光<br>
-世界依然繁忙<br>
-地球失去续航<br>
-我和她生活在水下<br>
-珊瑚脆弱<br>
-海草疯长<br>
-生物在海底躲躲藏藏<br>
-后来<br>
-水母爆炸<br>
-飞船再次起航</p>
 ]]></content>
     </entry>
 </feed>
