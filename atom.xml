@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2023-06-17T12:25:19.569Z</updated>
+    <updated>2023-06-17T12:28:13.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
-    <subtitle>其实总是有很多机会降临在身边，也有很多想法时刻出现。虽然我不知道机会被抓住是否必然，但至少将想法记录于此。</subtitle>
+    <subtitle>其实总是有很多机会降临在身边，也有很多想法时刻出现。
+虽然我不知道机会被抓住是否必然，但至少将想法记录于此。</subtitle>
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
