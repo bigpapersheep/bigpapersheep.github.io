@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2023-12-05T06:25:28.346Z</updated>
+    <updated>2024-03-10T12:13:39.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -10,7 +10,28 @@
 虽然我不知道机会被抓住是否必然，但至少将想法记录于此。</subtitle>
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2023, Gridea</rights>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[要不要解救困在盒子里的猫]]></title>
+        <id>https://bigpapersheep.github.io/post/yao-bu-yao-jie-jiu-kun-zai-he-zi-li-de-mao/</id>
+        <link href="https://bigpapersheep.github.io/post/yao-bu-yao-jie-jiu-kun-zai-he-zi-li-de-mao/">
+        </link>
+        <updated>2024-03-08T12:42:16.000Z</updated>
+        <content type="html"><![CDATA[<p>这个问题是密码学的课上突然从脑袋里冒出来的，起因是老师突然讲到了量子力学，又不可避免地提到了薛定谔的猫。但我以下的想法比较抽象，大概和本身的议题已经失去了联系。<br>
+要弄清这个莫名其妙的问题的第一步是知道盒子里的猫是什么，我想在量子力学的领域来看，盒子里的猫代表的是一种新生的学术思想，一种在当时看来的异类，或是发散。它身处盒子，本身就带有一种神秘性，虽说量子力学说这是不定性，叠加态。这只在盒子里的猫，重点不是猫，而是在盒子里。<br>
+那么从这里看起来问题已经解决了，解救事实上毫无意义。解救被困在盒子里的猫，是问题的解决还是问题的无意义，抑或是无视掉这个问题，这些结果都不是众人想要的。那么，猫还是只能被困在盒子里，放弃等待盒子被打开的那一日，有些残忍啊听起来。<br>
+总之，这个问题下，猫只有被困在盒子里才有意义。我想这个毫无意义的问题还是给了我一些看问题的启发，找到当下的环境，对应的重点，再去谈论解决方式，而不要太过发散思维，浪费在无意义的事物上，比如这该死的量子力学。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[查拉图斯特如是说——记其中一句话]]></title>
+        <id>https://bigpapersheep.github.io/post/cha-la-tu-si-te-ru-shi-shuo-ji-qi-zhong-yi-ju-hua/</id>
+        <link href="https://bigpapersheep.github.io/post/cha-la-tu-si-te-ru-shi-shuo-ji-qi-zhong-yi-ju-hua/">
+        </link>
+        <updated>2024-01-02T07:43:30.000Z</updated>
+        <content type="html"><![CDATA[<p>一切美好的失去都是曲折地接近自己的目标，一切笔直的都是骗人的，所有的真理都是弯曲的，时间本身就是一个圈圈。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[假装是梦吧]]></title>
         <id>https://bigpapersheep.github.io/post/jia-zhuang-shi-meng-ba/</id>
@@ -154,28 +175,6 @@
         </link>
         <updated>2023-06-10T07:31:13.000Z</updated>
         <content type="html"><![CDATA[<p>我总会在自己写一些文字的时候起鸡皮疙瘩，即使这些文字并不是那么文艺或者深沉，而往往是表达我内心想法的文字，比如现在。对啊，明明只是自己那并不多的墨水，有什么可紧张的。直到在回顾了最近所感所看所学之后，我才明白为什么。因为学识过于浅薄，在不知道抒发着什么情感时才会感到愧疚，寻找不到一个合适来表达心情的词汇，才会在滥用辞藻时被自己别扭到，更多的时候，连记录本身这件事都让人莫名害羞。更加深入的了解世界，了解社会，了解人性，读过更多的书，看过更多的人，听过更多的故事，才会让我在突然想到时不是紧张的措辞，而是真正的有感而发。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正直了起来]]></title>
-        <id>https://bigpapersheep.github.io/post/zheng-zhi-liao-qi-lai/</id>
-        <link href="https://bigpapersheep.github.io/post/zheng-zhi-liao-qi-lai/">
-        </link>
-        <updated>2023-06-07T15:24:03.000Z</updated>
-        <content type="html"><![CDATA[<p>我决定以后只使用I can而不用I could，因为我一直都行，并且是没有那么礼貌的行。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[选择题]]></title>
-        <id>https://bigpapersheep.github.io/post/xuan-ze-ti/</id>
-        <link href="https://bigpapersheep.github.io/post/xuan-ze-ti/">
-        </link>
-        <updated>2023-06-02T13:52:27.000Z</updated>
-        <content type="html"><![CDATA[<p>我总是在做选择题，选择能够买哪一件衣服，选择要去什么城市，选择想要做的事情。这些选择总是很难，或者让人犹犹豫豫。<br>
-和考试不一样，它们被选择的原因不是只有一个正确答案，而是容量不足。<br>
-只能选择一件衣服，因为钱包的容量不足；只能选择一座城市，因为时间的容量不足；只能选择一件要做的事情，因为试错的容量不足。<br>
-作为普通的人，很多时候不过是在忍痛割爱。想要尝试的东西太多，想要拥有的事物太多，但这是单选题，空格最好是涂上一种色彩。<br>
-不足，不够，不满。</p>
 ]]></content>
     </entry>
 </feed>
