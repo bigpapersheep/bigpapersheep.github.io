@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2024-03-23T07:16:09.679Z</updated>
+    <updated>2024-03-29T15:18:10.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -11,6 +11,17 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[突然想到（五）]]></title>
+        <id>https://bigpapersheep.github.io/post/tu-ran-xiang-dao-wu/</id>
+        <link href="https://bigpapersheep.github.io/post/tu-ran-xiang-dao-wu/">
+        </link>
+        <updated>2024-03-29T15:07:57.000Z</updated>
+        <content type="html"><![CDATA[<p>我好像一直都觉得同时看向月亮是一件很浪漫的事情。<br>
+事实上，我觉得同时在看一个物体，同时在想一件事，同时在念“一”个人都是很浪漫的事。至于为什么是月亮，大概是因为月亮是唯一一个能够链接不同空间和时间的物体，也是所有人都能够有机会看见的物体。其实太阳也算吧，只不过我们无法看向太阳。我们可以同时看向天，但天可以不是同一片；我们可以同时看向星星，但或许也不是同一颗；我们也可以做同一件事，不过那时我们可能身处异处，不在同一时空。可月亮只有唯一一个，当我知道我看向月亮的时候，你也在透过月光看向我。无论我们身处世界上哪个角落，一定会有同一时间的月光照在我们身上，我们也一定能够看向同一时间的月亮。<br>
+所以如果我们一起抬头看向月亮的时候，我可以认为你在想念我吗？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突然想到（四）]]></title>
         <id>https://bigpapersheep.github.io/post/tu-ran-xiang-dao-si/</id>
@@ -163,16 +174,6 @@
 很多东西没有在这个博客里发布，虽然这个博客并没有人知道，但那些记录还是用纸笔写了下来，目前不想发在一个网站上。<br>
 其实虽然说我不知道我该干些什么，但我是知道自己喜欢的东西，也知道想要做的事。可事情难两全，有些东西就是无法同时得到的，现实和理想大概率还是要放弃一个。更重要的是，目前看来我的竞争力并不大，这意味着可能不是难两全，而是到头来两空。我虽然总是和别人说年轻就是要敢去奋斗，可两空的后果我不是很敢想象，这主要是出于家庭原因。我的背景我无法改变，一步一步的慎重会让人怎样，我还是不懂。<br>
 这段时间蛮充实的，我经历了很多从前向往的事情，虽然过程并不顺利，但这让我学到很多，并开始在尝试学习东西和制作，我很高兴。不过看到专业课很难不让我头疼，规划着未来真令人头秃😿</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突然想到（二）]]></title>
-        <id>https://bigpapersheep.github.io/post/tu-ran-xiang-dao-er/</id>
-        <link href="https://bigpapersheep.github.io/post/tu-ran-xiang-dao-er/">
-        </link>
-        <updated>2023-08-19T15:52:25.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>想要回到过去的最根本原因是对现在生活的不满意。回到过去，你不知道哪一点会改变人生的轨迹，不知道是否还能回到当下，见到如今的景致，遇到心爱的人。如果满意，你不舍得。</p>
 ]]></content>
     </entry>
 </feed>
