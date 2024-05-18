@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2024-05-12T15:30:07.416Z</updated>
+    <updated>2024-05-18T08:21:59.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -11,6 +11,17 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[芝加哥人民的热情]]></title>
+        <id>https://bigpapersheep.github.io/post/zhi-jia-ge-ren-min-de-re-qing/</id>
+        <link href="https://bigpapersheep.github.io/post/zhi-jia-ge-ren-min-de-re-qing/">
+        </link>
+        <updated>2024-05-16T09:04:28.000Z</updated>
+        <content type="html"><![CDATA[<p>就像拥有短板的木桶一样，盈而不满，过犹不及。<br>
+看了《芝加哥》的想法。<br>
+这个想法也适用于所有人。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夜车]]></title>
         <id>https://bigpapersheep.github.io/post/ye-che/</id>
@@ -46,7 +57,10 @@
         <link href="https://bigpapersheep.github.io/post/ren-xin-shi-yi-zuo-gu-du-de-dao-yu/">
         </link>
         <updated>2024-05-10T09:03:26.000Z</updated>
-        <content type="html"><![CDATA[<p>题目与正文关系不大，只是突然想犯文艺病而已。</p>
+        <content type="html"><![CDATA[<p>题目与正文关系不大，只是突然想犯文艺病而已。<br>
+最近和人交谈的时候总是会有一种防备感，不过这大概不是来自于我自身，而是对话莫名会变得小心翼翼。我猜测是因为大家都很喜欢将身边的人当作竞争对手，即使事实并非如此。越是到了重要节点前，这种氛围感就会越来越强烈，比如现在大家面临的研究生升学节点，工作面试节点，或者只是期末考试和某个比赛项目提交的节点。人们的话语充满了空气的对流，将本想脱口而出的话变换成了意义不明的气声，思索过后再给出一个虚实不明的回答。我只感觉这些模糊有飘渺的话语快将我的大脑给吹向了天空，整体再细看和细思的时候，不明所以。<br>
+人类的想法太过于自私，以至于真诚的交谈在当下这个节点好像成为了一个奢侈品，即使这个自私我有时都不是很懂是从何而产生的。我们会不会从始至终在对方的眼里都是充满网眼的黑衣小人，透明却又难以捉摸。不过这些都只是我当下一些脑补罢了，只是那层透明却又紧密的隔阂确实是存在的。<br>
+我有时觉得这很幼稚，人们总爱把身边的人当成不能倾诉的对象，比起真诚相处，好像更愿意戴着一层面具来交谈，久而久之，谁都不了解谁，谁都装的很了解谁。只希望这一切不是常态，而是某一地点里的角色特点，我们也不是带有怀疑和迷惘的身边人。</p>
 ]]></content>
     </entry>
     <entry>
@@ -184,18 +198,6 @@
 随意而潦草的梦，虽然这两个场景看起来没有任何相关性，我却固执的认为她们有着时间顺序，带有一些鬼神论和异常说。而我醒来之后的第一件事记得就是那个孩子的名字，我不觉得有多么的好听，甚至有些奇怪的名字，但就是印象很深刻。<br>
 以上。</p>
 <p>突然发现自己以前就记录过这个梦，我想这一篇更像是后续脑补的一个故事，带有更多的夸张和乱七八糟的创作。已经一年了啊，真的过的很快。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要不要解救困在盒子里的猫]]></title>
-        <id>https://bigpapersheep.github.io/post/yao-bu-yao-jie-jiu-kun-zai-he-zi-li-de-mao/</id>
-        <link href="https://bigpapersheep.github.io/post/yao-bu-yao-jie-jiu-kun-zai-he-zi-li-de-mao/">
-        </link>
-        <updated>2024-03-08T12:42:16.000Z</updated>
-        <content type="html"><![CDATA[<p>这个问题是密码学的课上突然从脑袋里冒出来的，起因是老师突然讲到了量子力学，又不可避免地提到了薛定谔的猫。但我以下的想法比较抽象，大概和本身的议题已经失去了联系。<br>
-要弄清这个莫名其妙的问题的第一步是知道盒子里的猫是什么，我想在量子力学的领域来看，盒子里的猫代表的是一种新生的学术思想，一种在当时看来的异类，或是发散。它身处盒子，本身就带有一种神秘性，虽说量子力学说这是不定性，叠加态。这只在盒子里的猫，重点不是猫，而是在盒子里。<br>
-那么从这里看起来问题已经解决了，解救事实上毫无意义。解救被困在盒子里的猫，是问题的解决还是问题的无意义，抑或是无视掉这个问题，这些结果都不是众人想要的。那么，猫还是只能被困在盒子里，放弃等待盒子被打开的那一日，有些残忍啊听起来。<br>
-总之，这个问题下，猫只有被困在盒子里才有意义。我想这个毫无意义的问题还是给了我一些看问题的启发，找到当下的环境，对应的重点，再去谈论解决方式，而不要太过发散思维，浪费在无意义的事物上，比如这该死的量子力学。</p>
 ]]></content>
     </entry>
 </feed>
