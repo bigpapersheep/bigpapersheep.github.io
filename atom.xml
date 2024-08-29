@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2024-08-26T04:58:51.781Z</updated>
+    <updated>2024-08-29T15:12:14.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -11,6 +11,18 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[《关于中国语言博大精深的顺序问题探讨》]]></title>
+        <id>https://bigpapersheep.github.io/post/lesslessguan-yu-zhong-guo-yu-yan-bo-da-jing-shen-de-shun-xu-wen-ti-tan-tao-greatergreater/</id>
+        <link href="https://bigpapersheep.github.io/post/lesslessguan-yu-zhong-guo-yu-yan-bo-da-jing-shen-de-shun-xu-wen-ti-tan-tao-greatergreater/">
+        </link>
+        <updated>2024-08-29T14:37:47.000Z</updated>
+        <content type="html"><![CDATA[<p>一场由“衣服没收？”而引起的思考。<br>
+假期的下午总喜欢在床上懒懒的度过，奶奶回家一见我就抛出鱼钩：“衣服没收？”，幸好我早已吃饱喝足，咬钩是不可能的，虽对此话不满，依然稳定应对：“早就收了。”轻松胜利。<br>
+但后来突然又一想，奶奶那句话换成“衣服收没？”给人的感受会好很多。仔细回忆起来，好像这种对话经常出现在家里的很多场景里，比如“碗没洗？”“作业没写？”“考试没考好？”，往往后面还跟着一个“哇”，令人不得不好好回应。否定前置的方式给人一种信服感，好像对方有着笃定的内里，但偏偏用的是疑问句，甚至还带着一个不偏不倚的语气词。这种话语让人觉得对方在质疑的同时仿佛已经认定自己是做错了什么，并充满自信，使人忍不住去解释一些东西。而后置的否定词则弱化了一种对于原因的渴望，而是单纯的询问，攻击力减弱，十分促进家庭和睦。<br>
+当然，奶奶还是很和蔼的，因为我大部分时候都有老实收衣服。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新年]]></title>
         <id>https://bigpapersheep.github.io/post/xin-nian/</id>
@@ -207,17 +219,6 @@
 投入空白的画幅<br>
 后来离开飘零的入口<br>
 笑着说只能做自己的英雄</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突然想到（五）]]></title>
-        <id>https://bigpapersheep.github.io/post/tu-ran-xiang-dao-wu/</id>
-        <link href="https://bigpapersheep.github.io/post/tu-ran-xiang-dao-wu/">
-        </link>
-        <updated>2024-03-29T15:07:57.000Z</updated>
-        <content type="html"><![CDATA[<p>我好像一直都觉得同时看向月亮是一件很浪漫的事情。<br>
-事实上，我觉得同时在看一个物体，同时在想一件事，同时在念“一”个人都是很浪漫的事。至于为什么是月亮，大概是因为月亮是唯一一个能够链接不同空间和时间的物体，也是所有人都能够有机会看见的物体。其实太阳也算吧，只不过我们无法看向太阳。我们可以同时看向天，但天可以不是同一片；我们可以同时看向星星，但或许也不是同一颗；我们也可以做同一件事，不过那时我们可能身处异处，不在同一时空。可月亮只有唯一一个，当我知道我看向月亮的时候，你也在透过月光看向我。无论我们身处世界上哪个角落，一定会有同一时间的月光照在我们身上，我们也一定能够看向同一时间的月亮。<br>
-所以如果我们一起抬头看向月亮的时候，我可以认为你在想念我吗？</p>
 ]]></content>
     </entry>
 </feed>
