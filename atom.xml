@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2024-08-30T01:38:24.066Z</updated>
+    <updated>2024-09-01T11:50:31.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -11,6 +11,19 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[突然想到（七）]]></title>
+        <id>https://bigpapersheep.github.io/post/tu-ran-xiang-dao-qi/</id>
+        <link href="https://bigpapersheep.github.io/post/tu-ran-xiang-dao-qi/">
+        </link>
+        <updated>2024-09-01T11:39:58.000Z</updated>
+        <content type="html"><![CDATA[<p>“最妙的话语，被笨蛋的耳朵听了，也会招来讽刺。”——《西东合集》<br>
+读书读到这一句时，突然觉得很适合拿来作为年少人在意的qq签名，但毕竟我不是年少的人了，所以换做了另一个视角。如果一位同学将这句话作为签名来使用，第一反应是什么？——他在讽刺谁吗？有谁不能够理解他的话语吗？他是不是觉得周边的人都是笨蛋？<br>
+从我在看书的时候的视角来看，这句话和其他所有有趣无趣的话语一样，并没任何隐含意义，至少没人会觉得在骂自己，只不过我随意联想了一下。但是换成面对面的场合，最为对话者的一方，我们则有可能将对方讲的每一句话套用到自己身上，然后开始怀疑刚过去的时刻，回想近几分钟的措辞。而qq空间则是怀疑对方最近的时刻，理解对方平淡的措辞。<br>
+人的心理和语言所处的环境是两大李元霸之锤，如果使用得好，能够成为名震天下的利器，反而只是全身开刃的刀口。<br>
+觉得语言的理解很有意思，也很难学习，这种和个性挂钩的东西是未解之谜吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《关于中国语言博大精深的顺序问题探讨》]]></title>
         <id>https://bigpapersheep.github.io/post/lesslessguan-yu-zhong-guo-yu-yan-bo-da-jing-shen-de-shun-xu-wen-ti-tan-tao-greatergreater/</id>
@@ -191,34 +204,6 @@
 头挽碧玉一簪<br>
 白衣踏破门槛<br>
 姑娘堪堪抬眼望天外</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未命名]]></title>
-        <id>https://bigpapersheep.github.io/post/wei-ming-ming/</id>
-        <link href="https://bigpapersheep.github.io/post/wei-ming-ming/">
-        </link>
-        <updated>2024-04-26T07:55:57.000Z</updated>
-        <content type="html"><![CDATA[<p>蝴蝶飞过山谷<br>
-打开了异世界的入口<br>
-目光追寻而去<br>
-空余现实一地荒芜<br>
-人们在窗内探寻<br>
-属于高挑枝干的礼物<br>
-直到蝴蝶飞过<br>
-带来最后的欢呼</p>
-<p>空留幻象的白<br>
-等待幻想色彩<br>
-我们在梦境中醒来<br>
-无非是故作伤感<br>
-从浪漫离开<br>
-落脚于不满</p>
-<p>为何总在痴人说梦<br>
-徜徉在空空花海中<br>
-带着过往的沉重<br>
-投入空白的画幅<br>
-后来离开飘零的入口<br>
-笑着说只能做自己的英雄</p>
 ]]></content>
     </entry>
 </feed>
