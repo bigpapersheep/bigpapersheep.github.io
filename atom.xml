@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2024-09-01T13:08:57.023Z</updated>
+    <updated>2024-09-21T13:43:55.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -11,6 +11,30 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[随意展开的几句]]></title>
+        <id>https://bigpapersheep.github.io/post/sui-yi-zhan-kai-de-ji-ju/</id>
+        <link href="https://bigpapersheep.github.io/post/sui-yi-zhan-kai-de-ji-ju/">
+        </link>
+        <updated>2024-09-18T10:26:23.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>其实中国人很有成为抖m的潜质。<br>
+：对于目前内卷的绝大部分中国人来说，仿佛只要停下来就是一种错误，休息就会走向人生的失败。周边人一卷，自己也不由得跟着卷，即使当下并不清楚卷的意义，只是认为不能停下来，理由则是因为大家都这样做。人就好像一个低低矮矮的陀螺，有着黝黑或土黄的皮肤，不停旋转在人民广场中央，即使一直都在朝着360个角度不停发散，还是期待着某一位闲来无事的人民给自己一鞭子，然后发出最后<br>
+的吼声：让世界转得更快一些吧！！！</p>
+<!-- more -->
+<p>道德感低下的人是不是会活得很幸福？<br>
+：很难去想象他们的生活，但对于这个问题现在来回答，我的答案是&quot;不是&quot;。</p>
+<!-- more -->
+<p>过去的人们面对快速的发展会很累吗？还是说以前那种发展速度实际上带来的更多是期待？<br>
+：总感觉那个时候人们的精神面貌总是很好的，不过从前的迭代速度确实和现在没得比。互联网的发展实实在在的将时代划出了一道鸿沟，这是我从这个问题里可以得到的看法。</p>
+<!-- more -->
+<p>如果不断意识到该使用效率提高工具，在某一种程度上是否也说明资源过剩？<br>
+：在看AI应用的时候想到了这个问题，AI的发展建立在大数据的基础之上，那么资源到底该指数据还是人力呢？曾经科技的进步是未来人类更好的生活，但也总有人在说科技的进步注定带来一部分人类的消失与陨落，说到底，站在金字塔尖的人总会越来越少。科技的进步对于底层人民到底是个什么样的存在，这个问题实际上已经慢慢在浮现了。我们努力学习知识，却在学习知识后被告知只有还未能使用机器代替的工作等待着我们，对于这一点，我很困惑。因为走到金字塔尖的人一定是少数，甚至是早已架好梯子的人，那么剩下的人呢？科技减少人力劳动，人口却在被不断累加，这种矛盾的事物使得人民幸福度不断下降。或许这个问题的思考也回答了上面的问题：因为那时还是齐头并进的关系，现在则无处可寻。</p>
+<!-- more -->
+<p>78岁的男人和59岁的女人正在为事业的新高峰奋力拼搏，怎么能不说是世界奇景呢？<br>
+：观美国大选辩论有感，并且好像有一鞭子要抽向我了，虽然我并不是陀螺，我只是在工位上的椅子里左右摇摆中。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突然想到（七）]]></title>
         <id>https://bigpapersheep.github.io/post/tu-ran-xiang-dao-qi/</id>
@@ -174,36 +198,6 @@
 所以我居然开始思考那些不再读书的人怎么样？就像之前看的电影《The Matrix》，当然不读书达不到这种程度，只是太想要弄明白一些事情真的好吗？糊里糊涂但也自在地过这一生有什么不好吗？<br>
 我想不到反驳点，因为能够想到的反驳点对于他们来说都无可厚非，并不重要。我去观察一些同学，她们很长时间的钻研在项目，课程上，她们并不清楚其中到底有什么价值，只是单纯把代码写好，提交，然后获得加分的条件。她们并不喜欢这项工作，也不知道自己想要什么，和很多的学生一样，只是在教育的潮水中被裹挟前进。或许她们是不懂很多复杂的事物，也不需要去想那么多东西，但我想她们其实很充实，不比看书的人少了些什么。我不愿意这样，反而变得茫然而不知所措。因为我太想知道然后呢？而放弃了很多当下不愿走的道路，我不敢说这一切都是书带给我的，只是频繁地去思考未来和当下让我变得笃定而又不安。<br>
 这样讲真的有些傲慢，但我也并不是在贬低他人，相反，我更想贬低自己。太多的问题和牵绊让我不得不犹犹豫豫地处理问题，懂得太少，想得还多。只希望读书会是个长久的习惯，当下只不过是年少的困扰。也许在将来我再次读到这篇乱七八糟的控诉和疑问时，已经知道了谜底。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些乱七八糟的短句汇总]]></title>
-        <id>https://bigpapersheep.github.io/post/yi-xie-luan-qi-ba-zao-de-duan-ju-hui-zong/</id>
-        <link href="https://bigpapersheep.github.io/post/yi-xie-luan-qi-ba-zao-de-duan-ju-hui-zong/">
-        </link>
-        <updated>2024-05-01T13:59:09.000Z</updated>
-        <content type="html"><![CDATA[<p>算不清复杂情节中的圈圈圆圆<br>
-算不懂你是真的痛苦还是在演<br>
-算不到故事的结局是否无缘</p>
-<p>我们好像乘了一场风<br>
-在纷纭的社会里找一个梦<br>
-自以为是地筑满了荒唐的高楼<br>
-到头来只是大梦初醒一场空</p>
-<p>用沾湿的手指将纸巾戳破<br>
-透过参差的洞口对向不远的入口<br>
-我总用这种方式故作轻松<br>
-忽略周围汹涌的斑驳<br>
-微风渐起，浪潮来袭<br>
-入口礁石被雨水浸湿<br>
-目光在掌心沉溺<br>
-关于谜底<br>
-让他再来一局</p>
-<p>风吹水软，黄酒一坛<br>
-山花泛滥，不及亭下人影纷乱<br>
-手执娉婷一扇<br>
-头挽碧玉一簪<br>
-白衣踏破门槛<br>
-姑娘堪堪抬眼望天外</p>
 ]]></content>
     </entry>
 </feed>
