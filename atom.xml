@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigpapersheep.github.io</id>
     <title>Gridea</title>
-    <updated>2026-06-22T12:30:49.696Z</updated>
+    <updated>2026-07-16T12:32:09.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigpapersheep.github.io"/>
     <link rel="self" href="https://bigpapersheep.github.io/atom.xml"/>
@@ -11,6 +11,24 @@
     <logo>https://bigpapersheep.github.io/images/avatar.png</logo>
     <icon>https://bigpapersheep.github.io/favicon.ico</icon>
     <rights>All rights reserved 2026, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[独居]]></title>
+        <id>https://bigpapersheep.github.io/post/du-ju/</id>
+        <link href="https://bigpapersheep.github.io/post/du-ju/">
+        </link>
+        <updated>2026-07-16T12:26:52.000Z</updated>
+        <content type="html"><![CDATA[<p>爷爷前段时间去世了，高龄生病走的，小辈们从城市中赶回去，一起送了爷爷最后一程。<br>
+葬礼结束后，工作的陆续离开家工作，读书的陆续离开家读书。在家乡生活的还有两个儿女，姑姑是大女儿，已经退休了，平日也是她最常照顾着爷爷奶奶。大家都想着家里冷清了，担心奶奶一时见到这种场景不习惯，就商量着让姑姑这段时间和奶奶一同吃吃饭，以后奶奶想怎样生活几个儿女再讨论。<br>
+我记得离开家时我问奶奶，之后想自己煮饭吃还是和姑姑她们一起吃，奶奶说自己还可以照顾自己，就自己吃。<br>
+前两天打电话回去问奶奶，奶奶说小孩子放暑假了，姑姑今天刚回家，今天要自己煮饭吃了。距离爷爷去世也已经一个半月了，想来生活也是慢慢平淡下来了。听着听着，我听到奶奶的声音有些颤抖，她和我说，看到空空的家好孤单。<br>
+我有些愣住了，连忙安慰了几句奶奶，又岔开话题，说过段时间我就回家了。<br>
+其实家乡很小，几个留在家乡的子女都不会很远，我知道姑姑会常来看看奶奶，但奶奶还是说她忍不住在回到家的时候落泪。<br>
+奶奶今年七十六岁了，在我的回忆中，家里总有她的身影。作为大姐，她从小就开始照顾弟弟妹妹们，一直留在家中，只上了一个月的小学，就开始给家里干活了。奶奶十八岁和爷爷结婚，那几年遇上困难时期，她们东奔西跑，最后寻得一个小地方落脚。她持家务农，从没离开过家，和爷爷虽不能说情投意合，但也相互扶持了一辈子。退休以后，儿女们努力在县城买了房子，奶奶又离开乡下，来到县城把孙辈们都抚养长大。无论是女儿、妻子、母亲，还是白发苍苍的奶奶，七十六年间，奶奶从没有过一个人生活过。<br>
+我和奶奶说，我们工作都要一个人租房的，在大城市里落脚，常常都是一个人。奶奶说是啊，人长大了是要一个人。<br>
+我们把独居作为人生必经的课题，而我的奶奶也迎来了这场迟来数十年的考试。<br>
+她从七十六岁开始“长大”。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[答案]]></title>
         <id>https://bigpapersheep.github.io/post/da-an/</id>
@@ -327,27 +345,6 @@
 想找到消解无聊的秘方<br>
 于是拿出手机点亮每个灰暗的框<br>
 只忘了看一看窗口的光</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[异乡]]></title>
-        <id>https://bigpapersheep.github.io/post/yi-xiang/</id>
-        <link href="https://bigpapersheep.github.io/post/yi-xiang/">
-        </link>
-        <updated>2025-03-29T14:12:38.000Z</updated>
-        <content type="html"><![CDATA[<p>在高楼还没有如此密集的商业区，偶尔会有建筑之间的缝隙供人远眺<br>
-这里的夜色明亮而沉重，远眺是最适合疲惫的人的放松方式<br>
-我站在仅有六层高的天台无限遥望<br>
-城市总是没有星星的，但城市永远灯火万千<br>
-向四周望去<br>
-不远的山被高楼劈开，山体不再延绵，只依旧流畅<br>
-对面的玻璃高楼交错四分五裂，光线被截断，碎裂在平整的墙面之间<br>
-只有远处的高层居民楼最适合异乡人欣赏<br>
-每一个窗口里漏出的暖色灯光，在几十里外编织成了灵动的网纱<br>
-那是人类最安稳的一隅<br>
-我在这四四方方发天台上，终于寻找到心仪的夜色<br>
-将目光投入这夜晚，把思绪送进那面网纱<br>
-于几千里外，远眺家乡</p>
 ]]></content>
     </entry>
 </feed>
